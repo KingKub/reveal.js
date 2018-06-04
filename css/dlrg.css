@@ -1,0 +1,23 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 20px;
+    width: 100%;
+    background-color: rgb(204, 57, 0);
+    color: white;
+    text-align: center;
+    height: 50px;
+
+}
+.footer .gliederung {
+    color: #fcd719;
+    position: absolute;
+    left: 10%;
+    font-size: 18px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.footer .wortmarke {
+     position: absolute;
+     top: 4px;
+     left: 85%;
+}
