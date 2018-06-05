@@ -6,18 +6,32 @@
     background-color: rgb(204, 57, 0);
     color: white;
     text-align: center;
-    height: 50px;
+    height: 7%;
 
 }
+
 .footer .gliederung {
-    color: #fcd719;
+    color:  #FFFF00;
     position: absolute;
-    left: 10%;
-    font-size: 18px;
+    left: 5%;
+    top: 25%;
+    font-size: 3.5vh;
+    font-weight: bold;
     font-family: Verdana, Arial, Helvetica, sans-serif;
 }
+
 .footer .wortmarke {
-     position: absolute;
-     top: 4px;
-     left: 85%;
+    height: 80%;
+    width: auto;
+    position: absolute;
+    top: 10%;
+    right: 5%;
+}
+
+.footer .wortmarke img {
+    display: block;
+    width: auto;
+    max-height: 100%;
+    height: auto;
+
 }
