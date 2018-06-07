@@ -1,0 +1,37 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 20px;
+    width: 100%;
+    background-color: rgb(204, 57, 0);
+    color: white;
+    text-align: center;
+    height: 7%;
+
+}
+
+.footer .gliederung {
+    color:  #FFFF00;
+    position: absolute;
+    left: 5%;
+    top: 25%;
+    font-size: 3.5vh;
+    font-weight: 500;
+    font-family: "DLRG Univers 55 Roman", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.footer .wortmarke {
+    height: 80%;
+    width: auto;
+    position: absolute;
+    top: 10%;
+    right: 5%;
+}
+
+.footer .wortmarke img {
+    display: block;
+    width: auto;
+    max-height: 100%;
+    height: auto;
+
+}
